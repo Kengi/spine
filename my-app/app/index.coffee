@@ -10,3 +10,5 @@ class App extends Spine.Controller
     @html require("views/sample")({version:Spine.version})
 
 module.exports = App
+
+# trytry
